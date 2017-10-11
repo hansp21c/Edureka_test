@@ -1,0 +1,5 @@
+Error loading .desktop file /usr/share/app-install/desktop/activity-log-manager:gnome-activity-log-manager-panel.desktop: constructor returned NULL
+Error loading .desktop file /usr/share/applications/gnome-deja-dup-panel.desktop: constructor returned NULL
+Error loading .desktop file /usr/share/app-install/desktop/deja-dup:gnome-deja-dup-panel.desktop: constructor returned NULL
+1507684263230	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1507684264176	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Unix error 2 during operation DirectoryIterator.prototype.next on file /home/edureka/.mozilla/firefox/kelvi8vs.default/features (No such file or directory) ((unknown module)) No traceback available
